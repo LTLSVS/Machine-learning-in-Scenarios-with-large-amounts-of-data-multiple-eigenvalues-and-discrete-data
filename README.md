@@ -25,4 +25,3 @@ LogisticRegression/ KNeighborsClassifier/ DecisionTreeClassifier
 3.C列同A列。  
 综合数据，得出预测结果。  
 
-[scikit-learn库学习推荐](https://scikit-learn.org.cn/)
